@@ -48,8 +48,8 @@ h1 {
   display: inline-flex;
   flex-direction: row;
   background-color: white;
-  -moz-column-count: 2;
-  -webkit-column-count: 2;
+  moz-column-count: 2;
+  webkit-column-count: 2;
   column-count: 2;
   flex: 1;
 }
