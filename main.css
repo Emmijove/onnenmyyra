@@ -24,6 +24,11 @@ h1 {
   color: red; 
 }
 
+h2 {
+  flex: 1;
+  color: green; 
+}
+
 .images {
   display: inline-flex;
   flex: 1;
