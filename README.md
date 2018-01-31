@@ -1,3 +1,10 @@
+Päiväkoti Onnenmyyrä on vuodesta 1994 toiminut vanhempainyhdistyksen ylläpitämä päiväkoti. Meillä on 18 hoitopaikkaa 1-5 -vuotiaille lapsille. Päiväkodissamme työskentelee kaksi opettajaa ja kaksi lastenhoitajaa. Onnenmyyrän tärkeimpänä ajatuksena on tarjota turvallinen ja kodinomainen hoitopaikka. Kodinomaisuuteen kuuluu kaikenikäisten kanssa toimiminen, niinpä meillä kaikki lapset ovat samassa ryhmässä. Näin lapset oppivat toimimaan luontevasti eri ikäisten seurassa, auttavat pienempiään ja toisaalta voivat ottaa mallia isommilta. Pyrimme toiminnassamme lapsilähtöisyyteen, eli olemme aidosti kiinnostuneita lasten tekemisistä ja puheista. Lapsia kuuntelemalla ja seuraamalla saamme suunniteltua toimintamme lasten omista kiinnostuksen kohteista ja tarpeista lähtien. Emme myöskään painota erityisesti mitään tiettyä osa-aluetta toiminnassame, vaan pyrimme monipuoliseen toimintaan ja tarjoamaan lapsille uusia kokemuksia. Haluamme kasvattaa lapsia omatoimisuuteen sekä oman ajattelun, itseluottamuksen ja luovuuden kasvamiseen. Tervetuloa tutustumaan toimintaamme!
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Emmijove/onnenmyyra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
