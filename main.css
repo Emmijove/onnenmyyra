@@ -55,6 +55,8 @@ h2 {
   background-color: white;
   justify-content: space-around;
   align-items: flex-start;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   flex: 1;
 }
 
@@ -62,5 +64,9 @@ h2 {
   display: inline-flex;
   flex-direction: row;
   background-color: lightblue;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   flex: 1;
 }  
