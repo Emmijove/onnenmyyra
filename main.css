@@ -16,7 +16,7 @@ body {
   display: inline-flex;
   flex: 1;
   flex-direction: row;
-  background-color: white;
+  background: <img src='maalaus.jpg' />;
 }
 
 h1 {
