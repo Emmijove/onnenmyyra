@@ -77,6 +77,8 @@ h2 {
 
   display: block;
   flex-direction: row;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .introduction div {
@@ -120,6 +122,6 @@ h2 {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 4rem;
+  padding-bottom: 8rem;
 }
