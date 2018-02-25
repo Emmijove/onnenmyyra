@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-size: 16px;
   background: url(images/maalaus.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -12,7 +13,6 @@ body {
   flex-direction: column;
   width: 100%;
   height: 100%;
-  font-size: 16px;
   background-color: rgba(255, 255, 255, 0.3);
 }
 
@@ -21,13 +21,12 @@ body {
   display: inline-flex;
   flex: 1;
   flex-direction: row;
-  padding-top: 2rem;
 }
 
 h1 {
   flex: 1;
   color: #975697;
-  font-size: 60px;
+  font-size: 3.75em;
   text-shadow: 2px 1px 0.5px #721572;
   padding-top: 5rem;
 }
@@ -35,9 +34,10 @@ h1 {
 h2 {
   flex: 1;
   color: green;
-  font-size: 30px;
+  font-size: 2em;
   text-shadow: 1px 0px 0.5px #410025;
   padding-bottom: 5rem;
+  padding-top: 2rem;
 }
 
 .images {
@@ -82,7 +82,7 @@ h2 {
 }
 
 .introduction div {
-  padding: 3em;
+  padding: 3rem;
   column-count: 2;
 }
 
@@ -124,4 +124,29 @@ h2 {
   justify-content: space-around;
   padding-top: 4rem;
   padding-bottom: 8rem;
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+
+  h1 {
+    padding-top: 2.5rem;
+  }
+
+  h2 {
+    padding-top: 0;
+    padding-bottom: 2rem;
+  }
+
+  #image2,
+  #image3 {
+    display: none;
+  }
+
+  .introduction div {
+    column-count: 1;
+    padding: 1.5rem;
+  }
 }
